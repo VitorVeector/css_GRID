@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.mainContainer{
+    display: grid;
+    grid-template-columns: 40px 40px 40px;
+    grid-template-rows: 40px 40px 40px;
+    grid-gap: 100px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #131042;
+
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.item{
+    background-color: rgb(172, 156, 11);
+}

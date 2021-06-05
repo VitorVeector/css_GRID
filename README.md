@@ -55,12 +55,22 @@ Vamos separá-los em dois grupos
 
 #### Justify e Align
 
-Levando em consideração o eixo `X` e `Y` (`X` Horizontal, `Y` Vertical)
+Levando em consideração o eixo `Justify` -> `X` e `Align` -> `Y` (`X` Horizontal, `Y` Vertical)
 
-##### Content
+### Content
 
-- `justify-content`
-- `align-content`
+`justify-content` e `align-content` permite alinhar alinhar o próprio grid em relação ao espaço fora do grid 
+
+**7 Valores podem ser utilizados**
+
+1. start
+2. end
+3. center
+4. stretch
+5. space-between
+6. space-around
+7. space-evenly
+
 
 
 
