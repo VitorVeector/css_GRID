@@ -1,1 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
 
+.mainContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #131042;
+
+    justify-items: center;
+    align-items: center;
+}
+
+.item{
+    background-color: rgb(172, 156, 11);
+    width: 50px;
+    height: 50px;
+}

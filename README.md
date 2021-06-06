@@ -59,7 +59,7 @@ Levando em consideração o eixo `Justify` -> `X` e `Align` -> `Y` (`X` Horizont
 
 ### Content
 
-`justify-content` e `align-content` permite alinhar alinhar o próprio grid em relação ao espaço fora do grid 
+`justify-content` e `align-content` permite alinhar o próprio grid em relação ao espaço fora do grid 
 
 **7 Valores podem ser utilizados**
 
@@ -72,5 +72,13 @@ Levando em consideração o eixo `Justify` -> `X` e `Align` -> `Y` (`X` Horizont
 7. space-evenly
 
 
+### Itens
 
+`Justify-itens` e `Align-itens` permite alinhas os itens do nosso grid, em qualquer espaço disponível, na célula que ele habitar
 
+**4 Valores podem ser utilizados**
+
+1. start
+2. end
+3. center
+4. stretch
