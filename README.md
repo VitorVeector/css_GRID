@@ -74,7 +74,7 @@ Levando em consideração o eixo `Justify` -> `X` e `Align` -> `Y` (`X` Horizont
 
 ### Itens
 
-`Justify-itens` e `Align-itens` permite alinhas os itens do nosso grid, em qualquer espaço disponível, na célula que ele habitar
+`Justify-itens` e `Align-itens` permite alinhar os itens do nosso grid, em qualquer espaço disponível, na célula que ele habitar
 
 **4 Valores podem ser utilizados**
 
@@ -86,6 +86,6 @@ Levando em consideração o eixo `Justify` -> `X` e `Align` -> `Y` (`X` Horizont
 
 ### Self
 
-`Justify-self` e `Align-self` permite alinha o item em si, (é aplicado no próprio item)
+`Justify-self` e `Align-self` permite alinhar o item em si, (é aplicado no próprio item)
 
 Semelhante ao `Justify-itens` e `Align-itens`
