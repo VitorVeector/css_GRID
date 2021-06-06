@@ -82,3 +82,10 @@ Levando em consideração o eixo `Justify` -> `X` e `Align` -> `Y` (`X` Horizont
 2. end
 3. center
 4. stretch
+
+
+### Self
+
+`Justify-self` e `Align-self` permite alinha o item em si, (é aplicado no próprio item)
+
+Semelhante ao `Justify-itens` e `Align-itens`
